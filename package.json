@@ -1,0 +1,40 @@
+{
+  "name": "angular2-checkbox-tree",
+  "author": "Tanmay",
+  "description": "Package for Angular2 Check Box Tree",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "tsc && concurrently \"npm run tsc:w\" \"npm run lite\" ",
+    "lite": "lite-server",
+    "postinstall": "typings install",
+    "tsc": "tsc",
+    "tsc:w": "tsc -w",
+    "typings": "typings"
+  },
+  "dependencies": {
+    "@angular/common": "~2.4.5",
+    "@angular/compiler": "~2.4.5",
+    "@angular/core": "~2.4.5",
+    "@angular/forms": "~2.4.5",
+    "@angular/http": "~2.4.5",
+    "@angular/platform-browser": "~2.4.5",
+    "@angular/platform-browser-dynamic": "~2.4.5",
+    "@angular/router": "~3.4.5",
+    "@angular/upgrade": "~2.4.5",
+    "bootstrap": "^3.3.7",
+    "core-js": "^2.4.1",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "5.0.3",
+    "systemjs": "0.19.39",
+    "zone.js": "^0.7.6",
+    "angular-in-memory-web-api": "~0.2.4",
+    "font-awesome": "^4.6.3",
+    "primeng": "^1.0.0-beta.17"
+  },
+  "devDependencies": {
+    "concurrently": "^3.0.0",
+    "lite-server": "^2.2.2",
+    "typescript": "^2.1.5",
+    "typings": "^1.4.0"
+  }
+}
