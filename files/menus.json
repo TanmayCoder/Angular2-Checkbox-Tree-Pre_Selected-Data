@@ -1,0 +1,138 @@
+    [
+        {
+            "MenuId": 1,
+            "Title": "HOME",
+            "ParentName": null,
+            "ParentId": null,
+            "Menus": null
+        },
+        {
+            "MenuId": 2,
+            "Title": "ADMIN",
+            "ParentName": null,
+            "ParentId": null,
+            "Menus": [
+                {
+                    "MenuId": 94,
+                    "Title": "LOG DETAILS",
+                    "ParentName": null,
+                    "ParentId": 2,
+                    "Menus": null
+                },
+                {
+                    "MenuId": 100,
+                    "Title": "VIEW FILE LOG",
+                    "ParentName": null,
+                    "ParentId": 2,
+                    "Menus": null
+                },
+                {
+                    "MenuId": 112,
+                    "Title": "SYSTEM ADMINISTRATOR",
+                    "ParentName": null,
+                    "ParentId": 2,
+                    "Menus": [
+                        {
+                            "MenuId": 3,
+                            "Title": "MANAGE CONFIGURATION",
+                            "ParentName": null,
+                            "ParentId": 112,
+                            "Menus": null
+                        },
+                        {
+                            "MenuId": 27,
+                            "Title": "USER TO ROLE CONFIGURATION",
+                            "ParentName": null,
+                            "ParentId": 112,
+                            "Menus": null
+                        },
+                        {
+                            "MenuId": 28,
+                            "Title": "ROLE CONFIGURATION",
+                            "ParentName": null,
+                            "ParentId": 112,
+                            "Menus": null
+                        },
+                        {
+                            "MenuId": 38,
+                            "Title": "ROLE/MENU CONFIGURATION",
+                            "ParentName": null,
+                            "ParentId": 112,
+                            "Menus": null
+                        },
+                        {
+                            "MenuId": 57,
+                            "Title": "MENU CONFIGURATION",
+                            "ParentName": null,
+                            "ParentId": 112,
+                            "Menus": null
+                        },
+                        {
+                            "MenuId": 89,
+                            "Title": "JOBS CONFIGURATION",
+                            "ParentName": null,
+                            "ParentId": 112,
+                            "Menus": null
+                        },
+                        {
+                            "MenuId": 93,
+                            "Title": "USER CONFIGURATION",
+                            "ParentName": null,
+                            "ParentId": 112,
+                            "Menus": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "MenuId": 5,
+            "Title": "OPERATIONS",
+            "ParentName": null,
+            "ParentId": null,
+            "Menus": [
+                {
+                    "MenuId": 6,
+                    "Title": "RISK OPERATION",
+                    "ParentName": null,
+                    "ParentId": 5,
+                    "Menus": null
+                },
+                {
+                    "MenuId": 82,
+                    "Title": "OPERATION ACTIVITY",
+                    "ParentName": null,
+                    "ParentId": 5,
+                    "Menus": null
+                },
+                {
+                    "MenuId": 83,
+                    "Title": "OPERATION ENTRY",
+                    "ParentName": null,
+                    "ParentId": 5,
+                    "Menus": null
+                },
+                {
+                    "MenuId": 129,
+                    "Title": "OPERATION UPDATE",
+                    "ParentName": null,
+                    "ParentId": 5,
+                    "Menus": null
+                },
+                {
+                    "MenuId": 130,
+                    "Title": "OPERATION CONTRACTS",
+                    "ParentName": null,
+                    "ParentId": 5,
+                    "Menus": null
+                }
+            ]
+        },
+        {
+            "MenuId": 11,
+            "Title": "REPORTS",
+            "ParentName": null,
+            "ParentId": null,
+            "Menus": null
+        }
+    ]
